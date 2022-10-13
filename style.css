@@ -120,6 +120,7 @@ body
     margin: 5px;
     font-size: 18px;
     transition: 0.2s;
+    margin-bottom: 1rem;
 }
 
 .card .details .content .social-icons a:hover
